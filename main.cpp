@@ -20,6 +20,9 @@ int main()
 	
 	c=number_one+number_two;
     cout << "Сумма двух чисел: " << c << endl;
+
+c=number_one-number_two;
+    cout << Разность двух чисел: " << c << endl;
     
     return 0;
 }
