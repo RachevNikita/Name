@@ -17,6 +17,9 @@ int main()
 
     cout << "number_one: " << number_one << endl;
      cout << "number_two: " << number_two << endl;
+	
+	c=number_one+number_two;
+    cout << "Сумма двух чисел: " << c << endl;
     
     return 0;
 }
