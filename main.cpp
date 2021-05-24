@@ -14,15 +14,14 @@ int main()
     cin >> number_one;
      cin >> number_two;
 
-
     cout << "number_one: " << number_one << endl;
      cout << "number_two: " << number_two << endl;
 	
-	c=number_one-number_two;
-    cout << "Произведение двух чисел: " << c << endl;
+c=number_one-number_two;
+cout << разность двух чисел: " << c << endl;
 
 c=number_one+number_two;
-    cout << деление двух чисел: " << c << endl;
+cout << сумма двух чисел: " << c << endl;
     
     return 0;
 }
